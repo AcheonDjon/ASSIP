@@ -1,0 +1,13 @@
+GhRepo,date1,actor_login,num_activities,num_dist_commits,num_dist_commitcomments,num_actors_pushevents,num_actors_pusheventscomment,num_dist_pullreqopened,num_dist_pullreqclosed,num_dist_pullreqAll,num_dist_pullreqcomments,num_actors_pullreq,num_actors_pullreqcomment,num_actors_pullreq_opened,num_actors_pullreq_closed,num_dist_issuesopened,num_dist_issuesclosed,num_dist_issuesAll,num_dist_issuecomments,num_actors_issues,num_actors_issuescomment,num_actors_allevents,num_actors_issues_opened,num_actors_issues_closed,num_forks_event,num_actors_forks,num_watch_event,num_actors_watch,num_releases,release_payload
+Niftyx/NiftyGrid,2014-01-28,bazo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,
+Niftyx/NiftyGrid,2014-02-19,sedlakos,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,
+Niftyx/NiftyGrid,2014-03-06,marian-r,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,
+Niftyx/NiftyGrid,2014-03-15,mildhouse,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,
+Niftyx/NiftyGrid,2014-03-26,jiri-jagos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,
+Niftyx/NiftyGrid,2014-04-05,jakubskrz,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,
+Niftyx/NiftyGrid,2014-04-11,Chipsi,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,
+Niftyx/NiftyGrid,2014-04-26,klinki,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,
+Niftyx/NiftyGrid,2014-04-26,vancaem,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,
+Niftyx/NiftyGrid,2014-04-29,miloshavlicek,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,
+Niftyx/NiftyGrid,2014-05-19,mildhouse,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,
+Niftyx/NiftyGrid,2014-10-28,Lawondyss,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,

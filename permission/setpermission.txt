@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/zebra/Documents/projects/ASSIP_Data/permission/my-project-12650-as-dbc5652a7102.json"
